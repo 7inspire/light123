@@ -1,0 +1,41 @@
+[
+  {
+    "url": "http://localhost:51666/index.html",
+    "isRepresentativeRun": false,
+    "htmlPath": "/Users/tongchangsheng/mooc/light123/localhost-_index_html-2021_04_26_07_55_00.report.html",
+    "jsonPath": "/Users/tongchangsheng/mooc/light123/localhost-_index_html-2021_04_26_07_55_00.report.json",
+    "summary": {
+      "performance": 0.98,
+      "accessibility": 0.86,
+      "best-practices": 0.93,
+      "seo": 0.85,
+      "pwa": 0.3
+    }
+  },
+  {
+    "url": "http://localhost:51666/index.html",
+    "isRepresentativeRun": false,
+    "htmlPath": "/Users/tongchangsheng/mooc/light123/localhost-_index_html-2021_04_26_07_55_09.report.html",
+    "jsonPath": "/Users/tongchangsheng/mooc/light123/localhost-_index_html-2021_04_26_07_55_09.report.json",
+    "summary": {
+      "performance": 0.98,
+      "accessibility": 0.86,
+      "best-practices": 0.93,
+      "seo": 0.85,
+      "pwa": 0.3
+    }
+  },
+  {
+    "url": "http://localhost:51666/index.html",
+    "isRepresentativeRun": true,
+    "htmlPath": "/Users/tongchangsheng/mooc/light123/localhost-_index_html-2021_04_26_07_55_18.report.html",
+    "jsonPath": "/Users/tongchangsheng/mooc/light123/localhost-_index_html-2021_04_26_07_55_18.report.json",
+    "summary": {
+      "performance": 0.98,
+      "accessibility": 0.86,
+      "best-practices": 0.93,
+      "seo": 0.85,
+      "pwa": 0.3
+    }
+  }
+]
