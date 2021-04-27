@@ -10,10 +10,11 @@ module.exports = {
     //   "preset": "lighthouse:recommended",
     // },
     upload: {
+      target: 'temporary-public-storage',
       // target: 'filesystem',
-      "target": "lhci",
-      "serverBaseUrl": "http://192.168.147.234:9001",
-      token: '804bcd65-3c08-4488-9950-50a579420c6f'
+      // "target": "lhci",
+      // "serverBaseUrl": "http://192.168.147.234:9001",
+      // token: '804bcd65-3c08-4488-9950-50a579420c6f'
     },
   },
 };
